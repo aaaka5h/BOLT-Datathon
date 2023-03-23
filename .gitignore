@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# env stuff
+.python-version
+.env
+.venv
+venv/
+ENV/
+
+# MAC OS
+.DS_Store
